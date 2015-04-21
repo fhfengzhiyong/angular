@@ -3,7 +3,7 @@
   "main": "index.js",
   "version": "0.0.0",
   "homepage": "https://github.com/angular/angular",
-  "authors": [],
+  "authors": [xiaow],
   "license": "Apache-2.0",
   "private": true,
   "ignore": [
